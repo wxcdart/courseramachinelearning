@@ -90,7 +90,7 @@ Source: http://scott.fortmann-roe.com/docs/BiasVariance.html
 - [Logistic Regression](http://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
 
 ## Video lectures Index
-[https://class.coursera.org/ml/lecture/preview](https://class.coursera.org/ml/lecture/preview)
+[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## Programming Exercise Tutorials
 [https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)

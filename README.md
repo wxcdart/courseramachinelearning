@@ -1,9 +1,9 @@
 # Machine Learning By Prof. Andrew Ng :star2::star2::star2::star2::star:
 
-This page continas all my coursera machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
+This page continas all my machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
 
 # Table of Contents
-1. [Breif Intro](#breif-intro)
+1. [Brief Intro](#brief-intro)
 2. [Video lectures Index](#video-lectures-index)
 3. [Programming Exercise Tutorials](#programming-exercise-tutorials)
 4. [Programming Exercise Test Cases](#programming-exercise-test-cases)

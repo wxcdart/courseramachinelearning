@@ -91,6 +91,7 @@ Source: http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 ## Video lectures Index
 [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 [#1 Machine Learning Specialization](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
 ## Programming Exercise Tutorials

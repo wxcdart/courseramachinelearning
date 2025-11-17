@@ -94,6 +94,8 @@ Source: http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 [#1 Machine Learning Specialization](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
+(https://www.youtube.com/watch?v=4Pm-htIGVMQ&list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX&index=3)
+
 ## Programming Exercise Tutorials
 [https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 

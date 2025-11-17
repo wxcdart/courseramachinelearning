@@ -1,6 +1,6 @@
 # Machine Learning By Prof. Andrew Ng :star2::star2::star2::star2::star:
 
-This page continas all my machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
+This page continas machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
 
 # Table of Contents
 1. [Brief Intro](#brief-intro)

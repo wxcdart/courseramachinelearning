@@ -13,7 +13,7 @@ This page continas machine learning courses and resources :book: by [Prof. Andre
 8. [Online E-Books](#online-e-books)
 9. [Aditional Information](#aditional-information)
 
-## Breif Intro
+## Brief Intro
 
 The most of the course talking about **hypothesis function** and minimising **cost funtions**
 

@@ -202,9 +202,6 @@ Source: http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 ## Aditional Information
 
-## :boom: Course Status :point_down:
-![coursera_course_completion](/extra/img/coursera_course_completion.png)
-
 ### Links
 - [What are the top 10 problems in deep learning for 2017?](https://www.quora.com/What-are-the-top-10-problems-in-deep-learning-for-2017)
 - [When will the deep learning bubble burst?](https://www.quora.com/When-will-the-deep-learning-bubble-burst)
